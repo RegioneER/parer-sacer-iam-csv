@@ -14,7 +14,7 @@ Di seguito la lista dei CSV a cui si fa riferimento:
 - SACER IAM File pagine web.csv: lista delle **pagine** a cui l'operatore viene abilitato;
 - SACER IAM File servizi web.csv: lista dei **servizi** (REST/SOAP) codificati per cui è possibile abilitare un specifico utente.
 
-Una volta effettuata opportunamente la modifica del singolo file CSV, secondo necessità, dovrà essere opportunamente processato attraSACER IAM l'applicazione [SIAM](https://github.com/RegioneER/parer-sacer-iam) (SACER Identity and Access Management), l'operazione è possibile solo se **amministratori** per mezzo della funzione "Gestione allineamento componenti" accessibile tra le voci di "Amministrazione sistema".
+Una volta effettuata opportunamente la modifica del singolo file CSV, secondo necessità, dovrà essere opportunamente processato attraverso l'applicazione [SIAM](https://github.com/RegioneER/parer-sacer-iam) (SACER Identity and Access Management), l'operazione è possibile solo se **amministratori** per mezzo della funzione "Gestione allineamento componenti" accessibile tra le voci di "Amministrazione sistema".
 
 <img src="src/docs/img/siam_amm_comp.png"> 
 
