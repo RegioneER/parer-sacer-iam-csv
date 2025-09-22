@@ -6,7 +6,6 @@
 "SACER_IAM";"Menu.AmministrazioneSistema.GestioneAmbitoTerritoriale";"Gestione ambito territoriale";3;9;"Menu.AmministrazioneSistema";"GestioneAmbitoTerritoriale.html?operation=gestioneAmbitoTerritoriale&amp;cleanhistory=true"
 "SACER_IAM";"Menu.AmministrazioneSistema.GestioneClasseEnteConvenzionato";"Gestione classi ente convenzionato";3;6;"Menu.AmministrazioneSistema";"AmministrazioneClasseEnte.html?operation=ricercaClasseEnteConvenzionatoPage&amp;cleanhistory=true"
 "SACER_IAM";"Menu.AmministrazioneSistema.GestioneHelpOnLine";"Gestione help on line";3;10;"Menu.AmministrazioneSistema";"GestioneHelpOnLine.html?operation=initOnClick&amp;cleanhistory=true"
-"SACER_IAM";"Menu.AmministrazioneSistema.GestioneJob";"Gestione Job legacy";3;2;"Menu.AmministrazioneSistema";"GestioneJob.html?operation=initOnClick&amp;cleanhistory=true"
 "SACER_IAM";"Menu.AmministrazioneSistema.GestioneJobRicerca";"Gestione Job";3;1;"Menu.AmministrazioneSistema";"GestioneJob.html?operation=gestioneJobRicercaPage&amp;cleanhistory=true"
 "SACER_IAM";"Menu.AmministrazioneSistema.GestioneNews";"Gestione news";3;11;"Menu.AmministrazioneSistema";"GestioneNews.html?operation=ricercaNewsPage&amp;cleanhistory=true"
 "SACER_IAM";"Menu.AmministrazioneSistema.GestioneNoteRilascio";"Gestione note di rilascio";3;12;"Menu.AmministrazioneSistema";"GestioneNoteRilascio.html?operation=ricercaNoteRilascioPage&amp;cleanhistory=true"
