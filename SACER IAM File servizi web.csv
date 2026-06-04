@@ -3,6 +3,7 @@
 "SACER_IAM";"AllineamentoEnteConvenzionato";"Allineamento ente convenzionato"
 "SACER_IAM";"AppInfo";"Informazioni dell'applicazione"
 "SACER_IAM";"CalcoloServiziErogati";"Calcolo servizi erogati"
+"SACER_IAM";"EntiConvenzionatiMach";"Enti convenzionati microservizio"
 "SACER_IAM";"OrganizzazioniAbilitateMach";"Organizzazioni abilitate microservizio"
 "SACER_IAM";"RecuperoAbilitazioniTipiDato";"Recupero abilitazioni sui tipi di dato"
 "SACER_IAM";"RecuperoAutorizzazioni";"Recupero autorizzazioni per un utente di una applicazione e per una eventuale organizzazione"
